@@ -1,0 +1,5 @@
+{
+  "name": "DG Declaration Extractor",
+  "description": "Extract information from Dangerous Goods Declaration forms and export to Excel using Gemini AI.",
+  "requestFramePermissions": []
+}
