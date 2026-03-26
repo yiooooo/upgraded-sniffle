@@ -292,7 +292,7 @@ export default function App() {
                   <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform">
                     <ImageIcon className="w-6 h-6 text-gray-500" />
                   </div>
-                  <p className="text-sm font-medium text-gray-700">點擊上傳或拖放檔案</p>
+                  <p className="text-sm font-medium text-gray-700">點擊上傳</p>
                   <p className="text-xs text-gray-400 mt-1">PDF, JPG, PNG (最大 10MB)</p>
                 </div>
                 <input 
